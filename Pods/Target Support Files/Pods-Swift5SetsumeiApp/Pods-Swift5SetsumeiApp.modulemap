@@ -1,0 +1,6 @@
+framework module Pods_Swift5SetsumeiApp {
+  umbrella header "Pods-Swift5SetsumeiApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
